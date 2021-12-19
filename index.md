@@ -2,6 +2,6 @@
 layout: default
 ---
 
-## Markdown stuff
+# Markdown stuff
 
 funny markdown stuff
