@@ -1,1 +1,6 @@
 theme: jekyll-theme-merlot
+
+baseurl: ""
+
+title: Coffee Medicine Science
+description: Some site for a weirdo
