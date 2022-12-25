@@ -1,3 +1,3 @@
 # README
 
-<a href="https://coffeemedsci.com/" target="_blank">CoffeeMedSci Site</a>
+[CoffeeSciMed site](https://coffeemedsci.com)
