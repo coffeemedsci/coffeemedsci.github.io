@@ -4,26 +4,12 @@
 
 
 # To view locally
-## Necessary dependencies
+## Requirements
 - Gcc and Make
 - RubyGems
 - Ruby
 
 Run 
-```
-bundle init
-gem install jekyll-theme-minimal
-```
-
-Add these lines in the Gemfile
-```
-gem 'nokogiri'
-gem 'rack', '~> 2.2.4'
-gem 'rspec'
-gem 'jekyll', '~> 4.0'
-gem "jekyll-theme-minimal", "~> 0.2"
-```
-Then run
 ```
 bundle install
 bundle exec jekyll serve
