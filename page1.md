@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /page1/
 ---
 
 # Page 1
